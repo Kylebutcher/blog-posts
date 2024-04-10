@@ -1,0 +1,29 @@
+/* .form {
+  /* border: 3px solid red; */
+  /* display: flex; */
+  /* flex-direction: column; */ 
+
+
+/* .button-container { */
+  /* text-align: center; */
+  /* align-content: center; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* background-color: black; */
+  /* text: white; */
+
+
+/* dark mode */
+.dark-mode {
+  background-color: black;
+  height: 100vh;
+  color: white;
+}
+
+ /*light mode */
+
+.light {
+  background-color: white;
+  color: black;
+  height: 100vh;
+}
