@@ -26,3 +26,12 @@
   width: 100px;
   height: 50px;
 }
+
+div .blog-post {
+  border: 3px black;
+}
+
+/* main .info{
+  /* border: 3px;
+  display: flex; 
+*/
